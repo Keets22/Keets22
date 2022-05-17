@@ -5,7 +5,7 @@
 <p align='center'>
   
 </p>
-<div size='20px'> Hello! I'm Vishvabala, a passionate Computer Science student from India. 
+<div size='20px'> Hello! I'm Keerthana, a passionate Computer Science student from India. 
 </div>
 
 <div>
@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
-<a href="https://twitter.com/vishvabalacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvabalacs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishvabalacs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvabala c s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keerthana-selvaraj-660012215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvabala c s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
